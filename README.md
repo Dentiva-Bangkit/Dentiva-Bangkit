@@ -1,9 +1,9 @@
 # Dentiva
 
-<div style="text-align: center;">
-    <img src="./dentiva.png" alt="Logo Dentiva" width="250">
-    <p>Your Dental Detective for Healthy Mouths</p>
-</div>
+<p align="center">
+    <img src="dentiva.png" alt="Logo Dentiva" width="250">
+</p>
+<p align="center">Your Dental Detective for Healthy Mouths</p>
 
 ## About Project
 
