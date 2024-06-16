@@ -7,7 +7,7 @@
 
 ## About Project
 
-Dentiva is an innovative application designed to revolutionize dental healthcare by offering comprehensive solutions for identifying, treating, and preventing dental diseases. With the increasing prevalence of dental issues globally, there is a pressing need for accessible and efficient tools to address oral health concerns. Dentiva aims to fill this gap by leveraging cutting-edge technology to empower users in managing their dental well-being.
+Dentiva is an innovative application designed to revolutionize dental healthcare by offering comprehensive solutions for identifying, treating, and preventing dental diseases. In an era where dental issues are increasingly prevalent globally, there is an urgent need for accessible and efficient tools to address oral health concerns. Dentiva aims to fill this crucial gap by leveraging cutting-edge technology to empower users in managing their dental well-being. Beyond disease detection and personalized oral care guidance, Dentiva goes the extra mile by recommending nearby dental clinics and providing reminders or schedules for brushing teeth. This holistic approach ensures that users not only receive immediate assistance in managing dental conditions but also maintain proactive oral hygiene practices.
 
 ## Dentiva Android App
 
