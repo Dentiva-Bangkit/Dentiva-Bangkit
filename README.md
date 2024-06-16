@@ -19,7 +19,7 @@ Dentiva is an innovative application designed to revolutionize dental healthcare
     <img src="./image5.png" alt="Article Page" width="150">
 </div>
 
-## Team Member
+## Team Members
 
 ### Team ID: C241-PS382
 
@@ -33,7 +33,7 @@ Dentiva is an innovative application designed to revolutionize dental healthcare
 |               [Defri Salwan](https://www.linkedin.com/in/defri-salwan/)               | A251D4KY4306 | Android Development |
 |        [Sherlita Diani](https://www.linkedin.com/in/sherlita-diani-586a93258/)        | A229D4KX4575 | Android Development |
 
-## Resource
+## Resources
 
 - Machine Learning Repository: [Dentiva-Machine-Learning](https://github.com/Dentiva-Bangkit/Machine-Learning)
 - Cloud Computing Repository: [Dentiva-Cloud-Computing](https://github.com/Dentiva-Bangkit/Cloud-Computing)
